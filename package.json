@@ -9,18 +9,18 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/olegabu/chaincode-node-storage.git"
+  "url": "git+https://github.com/shiqinfeng1/chaincode-node-storage.git"
  },
  "keywords": [
   "chaincode",
   "hyperledger"
  ],
- "author": "Oleg Abdrashitov <https://github.com/olegabu>",
+ "author": "Oleg Abdrashitov <https://github.com/shiqinfeng1>",
  "license": "Apache-2.0",
  "bugs": {
-  "url": "https://github.com/olegabu/chaincode-node-storage/issues"
+  "url": "https://github.com/shiqinfeng1/chaincode-node-storage/issues"
  },
- "homepage": "https://github.com/olegabu/chaincode-node-storage#readme",
+ "homepage": "https://github.com/shiqinfeng1/chaincode-node-storage#readme",
  "engine-strict": true,
  "dependencies": {
   "fabric-shim": "^1.2.0"
